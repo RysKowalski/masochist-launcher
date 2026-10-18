@@ -8,3 +8,5 @@ class MainActivity : Activity() {
         super.onCreate(savedInstanceState)
     }
 }
+
+// test
